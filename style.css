@@ -23,6 +23,10 @@ ul{
     list-style-type:none;
 
 }
+a{
+    text-decoration:none;
+    color:#F9FAF8;
+}
 .top-section{
     background-color:#1F2937;
 }
@@ -63,4 +67,36 @@ ul{
     justify-content:space-around;
     padding:120px;
 
+}
+.info-section{
+    padding:60px;
+}
+.info-section-heading{
+    color:#1F2937;
+    font-size:36px;
+    font-weight: bolder;
+    text-align:center;
+}
+.info-card{
+    width:150px;
+}
+.info-section-image{
+    height:160px;
+    width:160px;
+    border-radius:10px;
+    border-style:solid;
+    border-width:2px;
+    border-color:#3882F6;
+    margin-bottom:8px;
+}
+.info-card-text{
+    font-size:14px;
+    color:#1F2937;
+    text-align:center;
+}
+.info-container{
+    gap:66px;
+    display:flex;
+    justify-content:center;
+    margin:36px;
 }
