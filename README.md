@@ -1,3 +1,10 @@
 # Landing-Page
 
-I am creating a Landing Page for a product with the help of FLexbox,CSS and HTML.
+Hello Everyone,
+I have created a model landing page through the things i have learnt from the odin Project.
+
+I have used 
+->HTML
+->CSS
+->FLEXBOX
+To make this page.
