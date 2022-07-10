@@ -100,3 +100,26 @@ a{
     justify-content:center;
     margin:36px;
 }
+.quote-container{
+    padding:90px;
+    background-color:#E5E7EB;
+    display:flex;
+    align-items: center;
+    flex-direction:column;
+}
+.quote{
+    font-size:26px;
+    font-weight:lighter;
+    font-style:italic;
+    color:#1F2937;
+    
+}
+.author{
+    text-align: right;
+    font-size:20px;
+    color:#1F2937;
+    margin-right:70px;
+}
+.text-container{
+    width:650px;
+}
